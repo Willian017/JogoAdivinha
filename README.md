@@ -2,7 +2,7 @@
 <p align="center">Projeto feito em C, consiste em um jogo de adivinhar qual o numero.</p>
 <h4 align="center"> 🚧 Em manutenção... 🚧 </h4>
 
-### Features
+### Features 
 
 - [x] Vidas e Pontos
 - [ ] Funções
